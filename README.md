@@ -3,7 +3,7 @@ This project is part of the QA Engineer interview process at Ignite Tech.
 In this project, I will write test automation scripts for the ToolsQA registration page (https://demoqa.com/automation-practice-form). 
 I will choose the 5 most important test cases, and write automation scripts for them using Java and Selenium.
 
-#**Libraries Used**
+**Libraries Used**
 * Selenium - version 4.5.3
 * JUnit tests - version 5.8.1
 * chromedriver - version 107.0.5304.62
@@ -25,7 +25,6 @@ To run the scripts:
     a) Right click the TestRegistration.java file "Run TestRegistration"
     b) Click on the green (run) arrow on the left of the class definition.
 
-  
-****Results****
+**Results**: 
 After running the test cases, the results are indicated on the pane at the bottom of the IDE.
 The results will include the test cases executed, how many passed, how many failed, the ones that passed/failed, and the time it took for the tests to complete.
