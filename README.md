@@ -26,6 +26,6 @@ To run the scripts:
     b) Click on the green (run) arrow on the left of the class definition.
 
   
-**Results**
+****Results****
 After running the test cases, the results are indicated on the pane at the bottom of the IDE.
 The results will include the test cases executed, how many passed, how many failed, the ones that passed/failed, and the time it took for the tests to complete.
